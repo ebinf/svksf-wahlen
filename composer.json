@@ -1,0 +1,19 @@
+{
+    "name": "ebinf/svksf-wahlen",
+    "type": "pagekit-extension",
+    "version": "0.0.1",
+    "title": "Wahlen",
+    "description": "Verwaltung der Kandidaturen für Wahlen der SV.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erik Borowski",
+            "email": "erik@ebinf.eu",
+            "homepage": "https://ebinf.eu"
+        }
+    ],
+    "extra": {
+      "icon": "icon.svg",
+      "scripts": "scripts.php"
+    }
+}
